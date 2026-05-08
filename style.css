@@ -1,0 +1,23 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+body {
+  width: 600px;
+  margin: 0 auto;
+  margin-top: 20%;
+}
+
+#btnfirst {
+  padding: 10px 20px;
+  background-color: aqua;
+  color: blue;
+  border: none;
+  border-radius: 15px;
+  font-size: 15px;
+  font-weight: bolder;
+}
+#btnfirst:hover {
+  background-color: black;
+  color: white;
+}
